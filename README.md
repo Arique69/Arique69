@@ -19,7 +19,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [perpustakaan-pbo](https://github.com/Arique69/perpustakaan-pbo) | Library management application | JavaScript |
-| [TryO](https://github.com/Arique69/TryO) | Website project | CSS |
+| [TryO](https://github.com/Arique69/TryO) | Online tryout platform for elementary school students  | CSS |
 | [bot-if4210](https://github.com/Arique69/bot-if4210) | Discord bot for IF4210 server | JavaScript |
 | [CeritamuCeritaku](https://github.com/Arique69/CeritamuCeritaku) | Collaborative storytelling platform | HTML |
 
