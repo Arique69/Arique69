@@ -38,10 +38,10 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [amertec-website](https://github.com/Arique69/amertec-astroproject) | Official website for PT Amertec Eraplast — integrated EPC company | Astro |
-| [perpustakaan-pbo](https://github.com/Arique69/perpustakaan-pbo) | Library management application | JavaScript |
+| [perpustakaan-pbo](https://github.com/Arique69/perpustakaan-pbo) | Library management application | Java |
 | [TryO](https://github.com/Arique69/TryO) | Online tryout platform for elementary school students | Laravel |
 | [bot-if4210](https://github.com/Arique69/bot-if4210) | Discord bot for IF4210 server | JavaScript |
-| [CeritamuCeritaku](https://github.com/Arique69/CeritamuCeritaku) | Collaborative storytelling platform | HTML |
+| [CeritamuCeritaku](https://github.com/Arique69/CeritamuCeritaku) | Collaborative storytelling platform | Laravel |
 
 ---
 
