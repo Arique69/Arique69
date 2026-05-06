@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 
-![Arique69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arique69&show_icons=true&theme=tokyonight&hide_border=true)
+[![Arique69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arique69)](https://github.com/Arique69/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arique69&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
