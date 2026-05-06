@@ -53,5 +53,5 @@
 
 ## 📫 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/@mhmdariq88-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mhmdariq88)
+[![X](https://img.shields.io/badge/@mastersidu-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/mastersidu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://arique69.github.io/)
